@@ -1,7 +1,7 @@
 Esta linea sera eliminada
-<<<<<<< HEAD
+
 Linea agregada por @jmorin8 
-=======
+
 Esta linea sera agregada
 Esta linea sera editada
->>>>>>> 359a6346ee486352a3eda7dd81922b4f6d2d4613
+
